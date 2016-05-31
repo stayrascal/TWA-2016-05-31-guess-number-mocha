@@ -1,0 +1,29 @@
+{
+  "name": "guess-game-mocha",
+  "version": "1.0.0",
+  "description": "use mocha chai sinon to test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stayrascal/TWA-2016-05-31-guess-number-mocha.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "sinon"
+  ],
+  "author": "stayrascal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stayrascal/TWA-2016-05-31-guess-number-mocha/issues"
+  },
+  "homepage": "https://github.com/stayrascal/TWA-2016-05-31-guess-number-mocha#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "sinon": "^1.17.4"
+  }
+}
